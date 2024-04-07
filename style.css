@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url(pngtree-background-vol-02-picture-image_1276792.jpg);
+  background-size: cover;
+  position: relative;
+}
+h1 {
+  font-size: 90px;
+  font-family: cursive;
+  color: #fff;
+  position: absolute;
+  top: 230px;
+  left: 460px;
+  text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 42px rgb(207, 49, 76),
+    0 0 77px rgba(199, 33, 133, 0.71), 0 0 100px rgb(213, 30, 152);
+}
